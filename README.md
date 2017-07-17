@@ -1,7 +1,7 @@
 
 ### Cybersecurity Pre-Work - *byron dot w at ieee dot org*
 
-Time spent: **3.5** hours spent in total 
+Time spent: **3** hours spent in total 
 
 ### User Stories
 
@@ -26,9 +26,9 @@ The following advanced user stories are optional:
 
 ### Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories #1 - But all checked as done for my username 'drbyronw' :
 
-<img src='pre-work.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/drbyronw/codepath-security/raw/master/2017-07-17_00-05-39-1.gif' width='' alt='Video Walkthrough' />
 
 
 ### Notes
