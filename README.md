@@ -1,11 +1,9 @@
 
-[Pre-Work Template](https://courses.codepath.com/snippets/cyber_security_university/readme_templates/prework_readme.md?raw=true)
-
-# Cybersecurity Pre-Work - *byron.w@ieee.org*
+### Cybersecurity Pre-Work - *byron dot w at ieee dot org*
 
 Time spent: **3.5** hours spent in total 
 
-## User Stories
+### User Stories
 
 The following **required** functionality is completed:
 
@@ -26,18 +24,18 @@ The following advanced user stories are optional:
 * [ ]  Bonus 1: IDOR Challenge 2 
 * [ ]  Bonus 2: IDOR Bank Challenge 3
 
-## Video Walkthrough
+### Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='pre-work.gif' width='' alt='Video Walkthrough' />
 
 
-## Notes
+### Notes
 
 Burp ran pretty slowly on my Macbook - it kept hanging for some reason and I actually received a low memory warning for the first time
 
-## License
+##### License
 
     Copyright [2017] [Byron Williams]
 
